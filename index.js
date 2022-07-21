@@ -74,7 +74,7 @@ bot.action('POP',(ctx)=>{
 
 bot.command('/help',(ctx)=>{
     ctx.reply(`<b>Hello👋</b> <b>${ctx.from.first_name}</b>
-<b>you Can Send me Files and I will Store and Share Link for that File to be used inside Telegram\nYou can also use me for searching Files contributed by various users\n\n</b> <b>🚨 Porn Contents will be Gives You PERMANENT BAN 🚨</b>`,{
+<b>you Can Send me Files and I will Store and Share Link for that File to be Used Inside Telegram. You can Also use me for Searching Files Contributed by Admins\n\n</b> <b>🚨 Porn Contents will be Gives You PERMANENT BAN 🚨</b>`,{
         parse_mode:'HTML',
         reply_markup:{
             inline_keyboard:[
