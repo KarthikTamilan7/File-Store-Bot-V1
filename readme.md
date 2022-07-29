@@ -1,7 +1,7 @@
 # filesaver
 Bot generates sharable link inside telegram for documents and make files public via inline search
 
-<a href="https://heroku.com/deploy?template=https://github.com/Amalrajanj/filesaver">
+<a href="https://heroku.com/deploy?template=https://github.com/KarthikTamilan7/File-Store-Bot-V1">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 <br><br>
